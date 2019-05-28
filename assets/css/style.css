@@ -1,0 +1,58 @@
+body {
+background-image: linear-gradient(to top, #dbdcd7 0%, #dddcd7 24%, #e2c9cc 30%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+
+}
+#buttons-view{
+width: 100%;
+margin: 0 auto;
+height: 20vh;
+}
+.animals {
+margin: 0px 10px 0px 10px ;
+padding: 10px;
+background-color: lightgreen;
+border-radius: 10%;
+font-size: 24px;
+background-image: linear-gradient(135deg, #007adf 0%, #00ecbc 100%);
+margin-top: 10px;
+text-transform: uppercase;
+}
+p{
+color: mediumaquamarine;
+margin: 10px;
+}
+.container {
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+
+}
+#animal-form{
+color: blueviolet;
+text-align: left;
+height: 100vh;
+width: 30%;
+font-size: 20px;
+display: block;
+}
+
+#animal-input{
+margin: 10px 0px 10px 0px;
+width: 500px;
+font-size: 24px;
+
+}
+#add-animal{
+font-size: 24px;
+padding: 20px;
+background-color: lightgreen;
+border-radius: 10%;
+
+}
+div {
+display: inline-block;
+margin: 10px;
+}
+label {
+font-size: 24px;    
+}
